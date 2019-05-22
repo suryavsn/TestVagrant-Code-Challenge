@@ -2,48 +2,48 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="122781" started-at="2019-05-22T14:38:40Z" finished-at="2019-05-22T14:40:43Z">
+  <suite name="Default suite" duration-ms="144122" started-at="2019-05-22T16:07:46Z" finished-at="2019-05-22T16:10:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="122781" started-at="2019-05-22T14:38:40Z" finished-at="2019-05-22T14:40:43Z">
-      <class name="codingRound.mastertest.SignInTest">
-        <test-method status="PASS" signature="initiateDriverSetup()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="initiateDriverSetup" is-config="true" duration-ms="11197" started-at="2019-05-22T20:08:40Z" finished-at="2019-05-22T20:08:51Z">
+    <test name="Default test" duration-ms="144122" started-at="2019-05-22T16:07:46Z" finished-at="2019-05-22T16:10:10Z">
+      <class name="codingRound.mastertest.ClearTripTest">
+        <test-method status="PASS" signature="initiateDriverSetup()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="initiateDriverSetup" is-config="true" duration-ms="30594" started-at="2019-05-22T21:37:46Z" finished-at="2019-05-22T21:38:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateDriverSetup -->
-        <test-method status="PASS" signature="shouldBeAbleToSearchForHotels()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="shouldBeAbleToSearchForHotels" duration-ms="61175" started-at="2019-05-22T20:08:51Z" finished-at="2019-05-22T20:09:53Z">
+        <test-method status="PASS" signature="shouldBeAbleToSearchForHotels()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="shouldBeAbleToSearchForHotels" duration-ms="65178" started-at="2019-05-22T21:38:16Z" finished-at="2019-05-22T21:39:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldBeAbleToSearchForHotels -->
-        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="quitbrowser" is-config="true" duration-ms="1282" started-at="2019-05-22T20:09:53Z" finished-at="2019-05-22T20:09:54Z">
+        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="quitbrowser" is-config="true" duration-ms="1114" started-at="2019-05-22T21:39:22Z" finished-at="2019-05-22T21:39:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitbrowser -->
-        <test-method status="PASS" signature="initiateDriverSetup()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="initiateDriverSetup" is-config="true" duration-ms="12252" started-at="2019-05-22T20:09:54Z" finished-at="2019-05-22T20:10:06Z">
+        <test-method status="PASS" signature="initiateDriverSetup()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="initiateDriverSetup" is-config="true" duration-ms="11294" started-at="2019-05-22T21:39:23Z" finished-at="2019-05-22T21:39:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateDriverSetup -->
-        <test-method status="PASS" signature="shouldThrowAnErrorIfSignInDetailsAreMissing()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="shouldThrowAnErrorIfSignInDetailsAreMissing" duration-ms="5730" started-at="2019-05-22T20:10:06Z" finished-at="2019-05-22T20:10:12Z">
+        <test-method status="PASS" signature="shouldThrowAnErrorIfSignInDetailsAreMissing()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="shouldThrowAnErrorIfSignInDetailsAreMissing" duration-ms="3428" started-at="2019-05-22T21:39:34Z" finished-at="2019-05-22T21:39:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldThrowAnErrorIfSignInDetailsAreMissing -->
-        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="quitbrowser" is-config="true" duration-ms="1212" started-at="2019-05-22T20:10:12Z" finished-at="2019-05-22T20:10:13Z">
+        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="quitbrowser" is-config="true" duration-ms="1200" started-at="2019-05-22T21:39:37Z" finished-at="2019-05-22T21:39:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitbrowser -->
-        <test-method status="PASS" signature="initiateDriverSetup()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="initiateDriverSetup" is-config="true" duration-ms="8937" started-at="2019-05-22T20:10:13Z" finished-at="2019-05-22T20:10:22Z">
+        <test-method status="PASS" signature="initiateDriverSetup()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="initiateDriverSetup" is-config="true" duration-ms="9602" started-at="2019-05-22T21:39:39Z" finished-at="2019-05-22T21:39:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateDriverSetup -->
-        <test-method status="PASS" signature="testThatResultsAppearForAOneWayJourney()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="testThatResultsAppearForAOneWayJourney" duration-ms="19859" started-at="2019-05-22T20:10:22Z" finished-at="2019-05-22T20:10:42Z">
+        <test-method status="PASS" signature="testThatResultsAppearForAOneWayJourney()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="testThatResultsAppearForAOneWayJourney" duration-ms="20557" started-at="2019-05-22T21:39:48Z" finished-at="2019-05-22T21:40:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testThatResultsAppearForAOneWayJourney -->
-        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:codingRound.mastertest.SignInTest@7823a2f9]" name="quitbrowser" is-config="true" duration-ms="1117" started-at="2019-05-22T20:10:42Z" finished-at="2019-05-22T20:10:43Z">
+        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:codingRound.mastertest.ClearTripTest@7823a2f9]" name="quitbrowser" is-config="true" duration-ms="1134" started-at="2019-05-22T21:40:09Z" finished-at="2019-05-22T21:40:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitbrowser -->
-      </class> <!-- codingRound.mastertest.SignInTest -->
+      </class> <!-- codingRound.mastertest.ClearTripTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
